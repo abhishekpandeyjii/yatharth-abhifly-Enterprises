@@ -1,0 +1,168 @@
+
+[
+  {
+    "id": "fasteners",
+    "name": "Fasteners",
+    "description": "Screws, bolts, and anchors for all purposes.",
+    "icon": "Nut",
+    "products": [
+      { 
+        "name": "Hex Bolts", 
+        "imageUrl": "https://images.unsplash.com/photo-1641630520184-8ea70bd9b3bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxoZXglMjBib2x0c3xlbnwwfHx8fDE3NjY5NjM2MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "imageHint": "hex bolts"
+      },
+      { 
+        "name": "Drywall Screws",
+        "imageUrl": "https://images.unsplash.com/photo-1660511383007-62722d53817f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkcnl3YWxsJTIwc2NyZXdzfGVufDB8fHx8MTc2Njk2MzYxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+        "imageHint": "drywall screws"
+      },
+      { 
+        "name": "Anchor Fasteners",
+        "imageUrl": "https://images.unsplash.com/photo-1650553863673-247d6bd32412?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhbmNob3IlMjBmYXN0ZW5lcnN8ZW58MHx8fHwxNzY2OTYzNjE0fDA&ixlib-rb-4.1.0&q=80&w=1080",
+        "imageHint": "anchor fasteners"
+      },
+      { 
+        "name": "Nylon Frame Fixing",
+        "imageUrl": "https://images.unsplash.com/photo-1581621293775-7aac902d7032?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxueWxvbiUyMHNjcmV3c3xlbnwwfHx8fDE3NjY5NjM2MTR8MA&ixlib-rb-4.1.0&q=80&w=1080",
+        "imageHint": "nylon screws"
+      }
+    ]
+  },
+  {
+    "id": "construction-hardware",
+    "name": "Construction & Builder Hardware",
+    "description": "Hinges, handles, and other essential hardware.",
+    "icon": "Hammer",
+    "products": [
+      { 
+        "name": "SS Door Hinges",
+        "imageUrl": "https://images.unsplash.com/photo-1698244415220-3d1ca844ed67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkb29yJTIwaGluZ2VzfGVufDB8fHx8MTc2Njk2MzYxNHww&ixlib-rb-4.1.0&q=80&w=1080",
+        "imageHint": "door hinges"
+      },
+      { 
+        "name": "Cabinet Handles",
+        "imageUrl": "https://images.unsplash.com/photo-1631048500395-64cf901e9e10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjYWJpbmV0JTIwaGFuZGxlc3xlbnwwfHx8fDE3NjY5NjM2MTR8MA&ixlib-rb-4.1.0&q=80&w=1080",
+        "imageHint": "cabinet handles"
+      },
+      { 
+        "name": "Gate Hooks",
+        "imageUrl": "https://images.unsplash.com/photo-1689516099434-e095034840bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnYXRlJTIwaG9va3N8ZW58MHx8fHwxNzY2OTYzNjE0fDA&ixlib-rb-4.1.0&q=80&w=1080",
+        "imageHint": "gate hooks"
+      },
+      { 
+        "name": "Tower Bolts",
+        "imageUrl": "https://images.unsplash.com/photo-1604504369554-95d06f62236b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0b3dlciUyMGJvbHRzfGVufDB8fHx8MTc2Njk2MzYxNHww&ixlib-rb-4.1.0&q=80&w=1080",
+        "imageHint": "tower bolts"
+      }
+    ]
+  },
+  {
+    "id": "power-tool-accessories",
+    "name": "Power Tool Accessories",
+    "description": "Bits, discs, and wheels for your power tools.",
+    "icon": "Drill",
+    "products": [
+      { 
+        "name": "Drill Bits",
+        "imageUrl": "https://images.unsplash.com/photo-1503792574895-6074f691cc6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkcmlsbCUyMGJpdHN8ZW58MHx8fHwxNzY2OTYzNjE0fDA&ixlib-rb-4.1.0&q=80&w=1080",
+        "imageHint": "drill bits"
+      },
+      { 
+        "name": "Screwdriver Bits",
+        "imageUrl": "https://images.unsplash.com/photo-1662348314465-2252dbf08c0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzY3Jld2RyaXZlciUyMGJpdHN8ZW58MHx8fHwxNzY2OTYzNjE0fDA&ixlib-rb-4.1.0&q=80&w=1080",
+        "imageHint": "screwdriver bits"
+      },
+      { 
+        "name": "Cutting Wheels (Metal)",
+        "imageUrl": "https://images.unsplash.com/photo-1571291341483-2fdc082c59ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjdXR0aW5nJTIwd2hlZWxzfGVufDB8fHx8MTc2Njk2MzYxNHww&ixlib-rb-4.1.0&q=80&w=1080",
+        "imageHint": "cutting wheels"
+      },
+      { 
+        "name": "Grinding Discs",
+        "imageUrl": "https://images.unsplash.com/photo-1721048379815-751e1c6a748a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxncmluZGluZyUyMGRpc2NzfGVufDB8fHx8MTc2Njk2MzYxNHww&ixlib-rb-4.1.0&q=80&w=1080",
+        "imageHint": "grinding discs"
+      }
+    ]
+  },
+  {
+    "id": "cutting-tools",
+    "name": "Cutting Tools & Abrasives",
+    "description": "Blades, discs, and brushes for cutting and finishing.",
+    "icon": "Scissors",
+    "products": [
+      { 
+        "name": "Diamond Saw Blades",
+        "imageUrl": "https://images.unsplash.com/photo-1560291544-bc203f6f95be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzYXclMjBibGFkZXN8ZW58MHx8fHwxNzY2OTYzNjE0fDA&ixlib-rb-4.1.0&q=80&w=1080",
+        "imageHint": "saw blades"
+      },
+      { 
+        "name": "Flap Discs",
+        "imageUrl": "https://images.unsplash.com/photo-1631246974502-73131bdaa3cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmbGFwJTIwZGlzY3N8ZW58MHx8fHwxNzY2OTYzNjE0fDA&ixlib-rb-4.1.0&q=80&w=1080",
+        "imageHint": "flap discs"
+      },
+      { 
+        "name": "Wire Brushes",
+        "imageUrl": "https://images.unsplash.com/photo-1739289043290-41606c84abc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3aXJlJTIwYnJ1c2hlc3xlbnwwfHx8fDE3NjY5NjM2MTR8MA&ixlib-rb-4.1.0&q=80&w=1080",
+        "imageHint": "wire brushes"
+      }
+    ]
+  },
+  {
+    "id": "plumbing-electrical",
+    "name": "Plumbing & Electrical",
+    "description": "Pipes, fittings, and electrical essentials.",
+    "icon": "PlugZap",
+    "products": [
+      { 
+        "name": "PVC Pipes & Fittings",
+        "imageUrl": "https://images.unsplash.com/photo-1600065621653-2f1de87d0f43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwdmMlMjBwaXBlc3xlbnwwfHx8fDE3NjY4OTIyNzJ8MA&ixlib-rb-4.1.0&q=80&w=1080",
+        "imageHint": "pvc pipes"
+      },
+      { 
+        "name": "Brass Fittings",
+        "imageUrl": "https://images.unsplash.com/photo-1650123965133-cb19242cc04a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxicmFzcyUyMGZpdHRpbmdzfGVufDB8fHx8MTc2Njk2MzYxNHww&ixlib.rb-4.1.0&q=80&w=1080",
+        "imageHint": "brass fittings"
+      },
+      { 
+        "name": "Switches & Sockets",
+        "imageUrl": "https://images.unsplash.com/photo-1745169921021-3304a3eed8ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzd2l0Y2hlcyUyMHNvY2tldHN8ZW58MHx8fHwxNzY2OTYzNjE0fDA&ixlib.rb-4.1.0&q=80&w=1080",
+        "imageHint": "switches sockets"
+      },
+      { 
+        "name": "Conduit Pipes & Accessories",
+        "imageUrl": "https://images.unsplash.com/photo-1765157684237-78000a2448c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb25kdWl0JTIwcGlwZXN8ZW58MHx8fHwxNzY2OTYzNjE0fDA&ixlib.rb-4.1.0&q=80&w=1080",
+        "imageHint": "conduit pipes"
+      }
+    ]
+  },
+  {
+    "id": "general-hardware",
+    "name": "General Hardware",
+    "description": "A variety of essential hardware supplies.",
+    "icon": "Package",
+    "products": [
+      { 
+        "name": "Safety Gloves",
+        "imageUrl": "https://images.unsplash.com/photo-1625562888409-14b30c2b17b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzYWZldHklMjBnbG92ZXN8ZW58MHx8fHwxNzY2OTYzNjE0fDA&ixlib.rb-4.1.0&q=80&w=1080",
+        "imageHint": "safety gloves"
+      },
+      { 
+        "name": "Measuring Tapes",
+        "imageUrl": "https://images.unsplash.com/photo-1633009824314-c9095d90a9e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtZWFzdXJpbmclMjB0YXBlfGVufDB8fHx8MTc2Njk2MzYxNHww&ixlib-rb-4.1.0&q=80&w=1080",
+        "imageHint": "measuring tape"
+      },
+      { 
+        "name": "Padlocks",
+        "imageUrl": "https://images.unsplash.com/photo-1614064745729-79e39d1b39b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwYWRsb2NrJTIwa2V5c3xlbnwwfHx8fDE3NjY5NjM2MTR8MA&ixlib.rb-4.1.0&q=80&w=1080",
+        "imageHint": "padlock keys"
+      },
+      { 
+        "name": "Adhesive Tapes",
+        "imageUrl": "https://images.unsplash.com/photo-1646641896570-ff6d27b542a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhZGhlc2l2ZSUyMHRhcGV8ZW58MHx8fHwxNzY2OTYzNjE0fDA&ixlib.rb-4.1.0&q=80&w=1080",
+        "imageHint": "adhesive tape"
+      }
+    ]
+  }
+]
+
+    
